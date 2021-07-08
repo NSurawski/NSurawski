@@ -1,5 +1,7 @@
 ### Hello 👋 I'm Nicole
 
+####I'm a Software Engineer, Certified ScrumMaster and Creative
+
 <!--
 **NSurawski/NSurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
