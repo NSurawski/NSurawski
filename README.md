@@ -2,7 +2,7 @@
 
 I'm a Software Engineer, Certified ScrumMaster (CSM I) and Creative
 
-Pronouns: She/Her. 
+Pronouns: She/Her/
 🔭 I’m currently working on a redo of my portfolio website using React.JS. 
  💬 Ask me about my dog, Yoda :)  
 Lets Chat: nicolesurawski@gmail.com  
