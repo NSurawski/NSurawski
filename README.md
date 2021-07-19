@@ -2,10 +2,10 @@
 
 I'm a Software Engineer, Certified ScrumMaster (CSM I) and Creative
 
-Pronouns: She/Her
-🔭 I’m currently working on a redo of my portfolio website using React.JS 
- 💬 Ask me about my dog, Yoda :)
-Lets Chat: nicolesurawski@gmail.com
+Pronouns: She/Her. 
+🔭 I’m currently working on a redo of my portfolio website using React.JS. 
+ 💬 Ask me about my dog, Yoda :)  
+Lets Chat: nicolesurawski@gmail.com  
 <!--
 **NSurawski/NSurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
