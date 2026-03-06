@@ -1,10 +1,14 @@
 ### Hello 👋 I'm Nicole
 
-I'm a Software Engineer, Certified ScrumMaster (CSM I) and Creative
-
 Pronouns: She/Her/
-🔭 I’m currently working on a redo of my portfolio website using React.JS. 
- 💬 Ask me about my dog, Yoda :)  
+
+I’m a client-focused, technically fluent product partner breaking into product management from Customer Success and Technical Solutions roles. Over the last several years at Criteo, I’ve owned the full post-sale lifecycle for ecommerce and SaaS clients—driving adoption, performance, and retention—while acting as a bridge between customers, Product, and Engineering.  
+
+My background combines hands-on technical troubleshooting (APIs, data flows, tagging, integrations) with structured Voice of Customer practices, UX feedback, and product collaboration in Agile environments. I’ve helped shape roadmaps by synthesizing qualitative feedback and quantitative performance data into clear, prioritized problem statements and feature requests.  
+
+Earlier, I completed a Software Engineering fellowship at General Assembly, building full-stack projects with JavaScript, Python, SQL, and RESTful APIs, and I’m a Certified Scrum Master. This mix of coding experience, customer advocacy, and cross-functional alignment informs how I think about product: deeply understanding user problems, validating solutions iteratively, and translating between business needs and technical execution.  
+
+I’m now focused on transitioning into Product Management roles where I can use this blend of experience to drive user-centric, data-informed product decisions. 💬 Ask me about my dog, Yoda :)  
 Lets Chat: nicolesurawski@gmail.com  
 <!--
 **NSurawski/NSurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
