@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Nicole
 
-I’m a client-focused, technically fluent product partner breaking into product management from Customer Success and Technical Solutions roles. Over the last several years at Criteo, I’ve owned the full post-sale lifecycle for ecommerce and SaaS clients—driving adoption, performance, and retention—while acting as a bridge between customers, Product, and Engineering.  
+I’m a client-focused, technically fluent product partner breaking into product management from Customer Success and Technical Solutions roles. Over the last several years at Criteo, I’ve owned the full post-sale lifecycle for ecommerce clients and other verticals in a SaaS environment—driving adoption, performance, and retention—while acting as a bridge between customers, Product, and Engineering.  
 
 My background combines hands-on technical troubleshooting (APIs, data flows, tagging, integrations) with structured Voice of Customer practices, UX feedback, and product collaboration in Agile environments. I’ve helped shape roadmaps by synthesizing qualitative feedback and quantitative performance data into clear, prioritized problem statements and feature requests.  
 
