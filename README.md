@@ -1,24 +1,13 @@
 ### Hello 👋 I'm Nicole
 
-I’m a client-focused, technically fluent product partner breaking into product management from Customer Success and Technical Solutions roles. Over the last several years at Criteo, I’ve owned the full post-sale lifecycle for ecommerce clients and other verticals in a SaaS environment—driving adoption, performance, and retention—while acting as a bridge between customers, Product, and Engineering.  
-
-My background combines hands-on technical troubleshooting (APIs, data flows, tagging, integrations) with structured Voice of Customer practices, UX feedback, and product collaboration in Agile environments. I’ve helped shape roadmaps by synthesizing qualitative feedback and quantitative performance data into clear, prioritized problem statements and feature requests.  
+I'm a Solutions Consultant transitioning into Product Management — and I'm building in public to prove it.
+I've managed a $1.5M/month client portfolio, maintained a 5/5 CSAT, and turned complex technical problems into clean solutions. Now I'm channeling that into product work: writing PRDs, designing prioritization systems, and shipping AI tools.
 
 Earlier, I completed a Software Engineering fellowship at General Assembly, building full-stack projects with JavaScript, Python, SQL, and RESTful APIs, and I’m a Certified Scrum Master. This mix of coding experience, customer advocacy, and cross-functional alignment informs how I think about product: deeply understanding user problems, validating solutions iteratively, and translating between business needs and technical execution.  
 
 I’m now focused on transitioning into Product Management roles where I can use this blend of experience to drive user-centric, data-informed product decisions. 💬 Ask me about my dog, Yoda :)  
 Lets Chat: nicolesurawski@gmail.com  
-<!--
-**NSurawski/NSurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating a meeting summarizer that auto-drafts follow-up emails and action items
+- 🌱 I’m currently learning Claude code
+- 💬 Ask me about my dog, Yoda!
