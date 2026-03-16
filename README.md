@@ -1,6 +1,7 @@
 ### Hello 👋 I'm Nicole
 
-I'm a Solutions Consultant transitioning into Product Management — and I'm building in public to prove it.
+Product-minded engineer building data-driven software. Interested in product strategy, experimentation, and scalable systems.
+
 I've managed a $1.5M/month client portfolio, maintained a 5/5 CSAT, and turned complex technical problems into clean solutions. Now I'm channeling that into product work: writing PRDs, designing prioritization systems, and shipping AI tools.
 
 Earlier, I completed a Software Engineering fellowship at General Assembly, building full-stack projects with JavaScript, Python, React, SQL, and RESTful APIs. During this time, I completed a certification and I’m also a Certified Scrum Master with deep knowledge of agile methodologies. This mix of coding experience, customer advocacy, and cross-functional alignment informs how I think about product: deeply understanding user problems, validating solutions iteratively, and translating between business needs and technical execution.  
