@@ -10,8 +10,6 @@ I'm particularly interested in roles where engineering, product strategy, and da
 
 📫 Let's chat: nicolesurawski@gmail.com
 
-🔭 Currently building: a meeting summarizer that auto-drafts follow-up emails and action items
-
-🌱 Currently learning: Claude Code
+🔭 Currently building: PM tools from scratch. Currently shipping: Feature Prioritizer — visual prioritization with RICE, ICE, and Value vs. Effort scoring.
 
 💬 Ask me about my dog, Yoda!
