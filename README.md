@@ -10,6 +10,6 @@ I'm particularly interested in roles where engineering, product strategy, and da
 
 📫 Let's chat: nicolesurawski@gmail.com
 
-🔭 Currently building: PM tools from scratch. Currently shipping: Feature Prioritizer — visual prioritization with RICE, ICE, and Value vs. Effort scoring.
+🔭 Currently building PM tools I wish I had. Latest: a Feature Prioritizer that lets PMs score, rank, and communicate feature priorities using RICE, ICE, and Value vs. Effort — because spreadsheets aren't a prioritization strategy.
 
 💬 Ask me about my dog, Yoda!
