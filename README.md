@@ -5,7 +5,7 @@ Turning user problems into actionable solutions and building tools that make ins
 
 ---
 
-##🌱 Currently Building
+## 🌱 Currently Building
 
 All projects built using Claude Code and the Anthropic Claude API:
 
