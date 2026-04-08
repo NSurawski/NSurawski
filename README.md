@@ -35,6 +35,8 @@ Seeking roles at the intersection of technical depth and customer impact — inc
 🎯 Strong problem-framing, technical communication, and decision-making
 
 
+
+
 💬 Let's connect — nicolesurawski@gmail.com
 
 She/Her | Based in Los Angeles, CA
