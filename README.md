@@ -29,6 +29,7 @@ All projects built using Claude Code and the Anthropic Claude API:
 Seeking roles at the intersection of technical depth and customer impact — including Solutions Engineer, Technical Account Manager, Customer Success Engineer, and Product Manager positions.
 
 ⚡ Rapid prototyping and AI-powered application development/
+
 🤖 AI-augmented workflows and agentic pipeline architecture
 🎯 Strong problem-framing, technical communication, and decision-making
 
