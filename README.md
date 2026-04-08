@@ -25,12 +25,13 @@ All projects built using Claude Code and the Anthropic Claude API:
 
 ---
 
-## 💼 Open to Opportunities
-Seeking **Associate Product Manager / Product Management roles** to bring:  
-- ⚡ Rapid prototyping skills  
-- 🤖 AI-augmented product workflows  
-- 🎯 Strong problem-framing and decision-making abilities  
+## 🧳 Open to Opportunities
+Seeking roles at the intersection of technical depth and customer impact — including Solutions Engineer, Technical Account Manager, Customer Success Engineer, and Product Manager positions.
 
-💬 Let’s connect — **nicolesurawski@gmail.com**  
+⚡ Rapid prototyping and AI-powered application development
+🤖 AI-augmented workflows and agentic pipeline architecture
+🎯 Strong problem-framing, technical communication, and decision-making
 
-*Pronouns: She/Her* | *Based in Los Angeles, CA*
+💬 Let's connect — nicolesurawski@gmail.com
+
+She/Her | Based in Los Angeles, CA
