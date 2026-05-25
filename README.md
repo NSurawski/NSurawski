@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Nicole (NSurawski)
 
-**Software Engineer | Certified ScrumMaster (CSM I) | Aspiring Product Manager**  
+**Technical Solutions & Customer Success | AdTech & SaaS | AI Builder | React · TypeScript · Claude API**
 Turning user problems into actionable solutions and building tools that make insights easy to access.  
 
 ---
