@@ -17,11 +17,21 @@ All projects built using Claude Code and the Anthropic Claude API:
 
 ---
 
-## 🛠️ Skills & Tools
-**Product Thinking:** user feedback analysis, product teardown, prioritization  
-**Frontend:** React, TypeScript, Tailwind CSS  
-**AI & Automation:** Agentic AI workflows, Claude integrations  
-**PM Tools & Concepts:** user research, sprint planning, Scrum, prototyping  
+## 🛠 Skills & Tools
+
+**Product Thinking:** user feedback analysis, product teardown, prioritization, usability analysis, workflow improvement, feature validation, UAT, product roadmap input
+
+**Frontend:** JavaScript, React, TypeScript, Tailwind CSS, Bootstrap CSS, HTML, CSS
+
+**Backend & Data:** Python, Node.js, Express, Django, SQL, RESTful APIs
+
+**AI & Automation:** Agentic AI workflows, Claude integrations
+
+**Version Control & Dev Tools:** Git, Google Tag Manager
+
+**Platforms & Analytics:** Shopify, Salesforce, Jira, Confluence, Looker, Tableau
+
+**PM Tools & Concepts:** user research, sprint planning, Scrum, Kanban, backlog management, prototyping, wireframing
 
 ---
 
